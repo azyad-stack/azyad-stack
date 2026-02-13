@@ -6,6 +6,6 @@ I’m **Anas Zyad**, a Computer Science student at ENSAM.
 📚 Actively learning and building projects to improve my problem-solving and programming skills.  
 🤝 Open to collaborating on open-source projects, especially in backend, web, or systems programming.  
 💬 Feel free to ask me about OOP, databases, or computer science fundamentals.  
-📫 You can reach me on LinkedIn: www.linkedin.com/in/anas-zyad-8b2636274
+📫 You can reach me on LinkedIn: www.linkedin.com/in/anas-zyad-8b2636274 or on Bluesky: https://bsky.app/profile/eruine.bsky.social
 
 ⚡ Fun fact: C# is not “C hashtag”  it’s C Sharp.
