@@ -8,4 +8,3 @@ I’m **Anas Zyad**, a Computer Science student at ENSAM.
 💬 Feel free to ask me about OOP, databases, or computer science fundamentals.  
 📫 You can reach me on LinkedIn: www.linkedin.com/in/anas-zyad-8b2636274 or on Bluesky: https://bsky.app/profile/eruine.bsky.social
 
-⚡ Fun fact: C# is not “C hashtag”  it’s C Sharp.
